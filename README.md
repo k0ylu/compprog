@@ -1,1 +1,2 @@
 # CodeForcesCodes
+these probably suck

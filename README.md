@@ -1,2 +1,2 @@
-# conpetetive programming stuff
-probably pretty bad but trying to be better at least
+# competitive programming stuff
+probably pretty bad but im trying to be better at least

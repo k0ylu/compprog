@@ -62,7 +62,7 @@ which in turn creates a 3x2 or 2x3 area
 
 in every 3x2 and 2x3 there are;
 
-	  _____ _____
+    _____ _____
    |     |     |
    |  x  |  x  |
    |_____|_____|
